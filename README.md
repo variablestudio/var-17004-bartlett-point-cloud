@@ -20,5 +20,9 @@ OSM conversion code https://wiki.openstreetmap.org/wiki/Slippy_map_tilenames#Lon
 
 3d model map export via [vectiler](https://github.com/karimnaaji/vectiler) rendered in [Vectary](https://www.vectary.com/engine/)
 
+```bash
+./vectiler.out --tilex 131007/131009 --tiley 87147/87149 --tilez 18 --roads 1
+```
+
 ![](doc/old-street-model.jpg)
 
