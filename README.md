@@ -1,6 +1,6 @@
 # var-rc18-point-cloud
 
-
+![](doc/point-cloud.jpg)
 
 
 # MapBox API
