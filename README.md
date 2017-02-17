@@ -16,3 +16,9 @@ e.g. For Old Steet https://api.mapbox.com/v4/mapbox.streets/18/131008/87148.png?
 ![](doc/old-street-tile.png)
 
 OSM conversion code https://wiki.openstreetmap.org/wiki/Slippy_map_tilenames#Lon..2Flat._to_tile_numbers
+
+
+3d model map export via [vectiler](https://github.com/karimnaaji/vectiler) rendered in [Vectary](https://www.vectary.com/engine/)
+
+![](doc/old-street-model.jpg)
+
