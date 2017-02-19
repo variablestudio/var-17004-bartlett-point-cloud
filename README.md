@@ -26,3 +26,12 @@ OSM conversion code https://wiki.openstreetmap.org/wiki/Slippy_map_tilenames#Lon
 
 ![](doc/old-street-model.jpg)
 
+
+# Unity
+
+Primitive Plane is 10x10 by default
+
+# Point Cloud Software
+
+http://www.faro.com/en-us/products/faro-software/scene/features#main
+
