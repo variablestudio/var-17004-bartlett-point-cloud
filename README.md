@@ -35,3 +35,10 @@ Primitive Plane is 10x10 by default
 
 http://www.faro.com/en-us/products/faro-software/scene/features#main
 
+# Other Notes
+
+Poisson Disk Sampling
+http://devmag.org.za/2009/05/03/poisson-disk-sampling/
+http://theinstructionlimit.com/wp-content/uploads/2009/07/UniformPoissonDiskSampler.cs
+http://www.cs.ubc.ca/~rbridson/docs/bridson-siggraph07-poissondisk.pdf
+
