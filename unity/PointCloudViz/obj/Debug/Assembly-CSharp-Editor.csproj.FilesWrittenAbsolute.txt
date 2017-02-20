@@ -1,0 +1,113 @@
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/Assembly-CSharp-Editor.dll.mdb
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/Assembly-CSharp-Editor.dll
+/Users/nicknikolov/work/unity/New Unity Project/obj/Debug/Assembly-CSharp-Editor.dll
+/Users/nicknikolov/work/unity/New Unity Project/obj/Debug/Assembly-CSharp-Editor.dll.mdb
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/UnityEngine.dll
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/UnityEditor.dll
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/UnityEditor.Advertisements.dll
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/nunit.framework.dll
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/UnityEditor.EditorTestsRunner.dll
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/UnityEditor.UI.dll
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/UnityEditor.Networking.dll
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/UnityEditor.TreeEditor.dll
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/UnityEditor.Graphs.dll
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/UnityEditor.iOS.Extensions.dll
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/UnityEditor.WebGL.Extensions.dll
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/Mono.Cecil.dll
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/Unity.DataContract.dll
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll.mdb
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
+/Users/nicknikolov/work/unity/New Unity Project/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll.mdb
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/Assembly-CSharp-Editor.dll.mdb
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/Assembly-CSharp-Editor.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/obj/Debug/Assembly-CSharp-Editor.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/obj/Debug/Assembly-CSharp-Editor.dll.mdb
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/UnityEngine.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/UnityEditor.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/UnityEditor.Advertisements.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/nunit.framework.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/UnityEditor.EditorTestsRunner.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/UnityEditor.UI.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/UnityEditor.Networking.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/UnityEditor.PlaymodeTestsRunner.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/UnityEditor.TreeEditor.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/UnityEditor.Analytics.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/UnityEditor.HoloLens.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/UnityEditor.VR.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/UnityEditor.Graphs.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/Mono.Cecil.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/Unity.DataContract.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/New Unity Project/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.xml
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/Assembly-CSharp-Editor.dll.mdb
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/Assembly-CSharp-Editor.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/obj/Debug/Assembly-CSharp-Editor.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/obj/Debug/Assembly-CSharp-Editor.dll.mdb
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/UnityEngine.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/UnityEditor.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/UnityEditor.Advertisements.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/nunit.framework.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/UnityEditor.EditorTestsRunner.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/UnityEditor.UI.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/UnityEditor.Networking.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/UnityEditor.PlaymodeTestsRunner.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/UnityEditor.TreeEditor.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/UnityEditor.Analytics.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/UnityEditor.HoloLens.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/UnityEditor.VR.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/UnityEditor.Graphs.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/Mono.Cecil.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/Unity.DataContract.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
+/Users/vorg/Workspace/var-ucl-rc18/06-unity-map/PointCloudViz/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.xml
