@@ -27,6 +27,7 @@ public class OpenStreetMap : MonoBehaviour {
 		int tileX = x + xOffset;
 		int tileY = y + yOffset;
 		string url = "https://api.mapbox.com/v4/mapbox.streets/" + zoom + "/" + tileX + "/" + tileY + ".png?access_token=" + accessToken;
+		Debug.Log("OSM " + url);
 		return this.getCachedWWW (url);
 	}
 
@@ -98,9 +99,6 @@ public class OpenStreetMap : MonoBehaviour {
 		return C * cosLat / Mathf.Pow(2, this.zoom);
 	}
 
-	public Transform center;
-
-
 
 	public Vector2 GetTilePosition(float lon, float lat) {
 		int zoom = this.zoom;
@@ -154,10 +152,6 @@ public class OpenStreetMap : MonoBehaviour {
 				renderer.material.mainTexture = www.texture;
 			}
 		}
-
-		Vector2 pos = GetPosition(this.lon, this.lat);
-		pos = GetPosition(-0.085621f, 51.526158f);
-		center.position = new Vector3(pos.x, 0.0f, pos.y);
 
 		TileSize = this.TileSizeInMeters();
 	}
