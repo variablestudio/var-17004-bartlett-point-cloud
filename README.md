@@ -2,6 +2,10 @@
 
 ![](doc/point-cloud.jpg)
 
+# Contact
+
+marcin@variable.io
+
 
 # MapBox API
 
