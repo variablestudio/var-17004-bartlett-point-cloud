@@ -6,6 +6,10 @@
 
 marcin@variable.io
 
+# Days
+
+[Day 02](Day02.md)
+
 
 # MapBox API
 
