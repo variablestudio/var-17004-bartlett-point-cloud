@@ -78,3 +78,4 @@
 /Users/vorg/Workspace/var-bartlett-point-cloud/var-bartlett-point-cloud/unity/PointCloudViz/Temp/bin/Debug/Unity.CecilTools.dll
 /Users/vorg/Workspace/var-bartlett-point-cloud/var-bartlett-point-cloud/unity/PointCloudViz/Temp/bin/Debug/Mono.Cecil.Pdb.dll
 /Users/vorg/Workspace/var-bartlett-point-cloud/var-bartlett-point-cloud/unity/PointCloudViz/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/vorg/Workspace/var-bartlett-point-cloud/var-bartlett-point-cloud/unity/PointCloudViz/Temp/bin/Debug/LitJson.dll

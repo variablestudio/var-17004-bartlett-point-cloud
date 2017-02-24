@@ -27,7 +27,7 @@ public struct DistanceResult {
 
 
 public class Vector3CatmullRomSpline {
-  private List<Vector3> values;                      
+  public List<Vector3> values;                      
   //have length for each segment, last ratio is 0
   private List<float> lengths;   
   //starts with 0 and ends with 1
@@ -82,8 +82,8 @@ public class Vector3CatmullRomSpline {
       }           
       lengths.Add(length);      
       totalLength += length;
-      //Debug.Log("Segment i:" + i + " length:" + length + " t:" + t + " len:" + (values[i+1]-values[i]).magnitude);  
-    }                     
+       //Debug.Log("Segment i:" + i + " length:" + length + " t:" + t + " len:" + (values[i+1]-values[i]).magnitude + " " + values[i].ToString());  
+    }        
     //last segment is 0, adding for easier ratio calculations                                           
     lengths.Add(0);   
     

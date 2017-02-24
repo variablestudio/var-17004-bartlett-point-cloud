@@ -150,3 +150,4 @@
 /Users/vorg/Workspace/var-bartlett-point-cloud/var-bartlett-point-cloud/unity/PointCloudViz/Temp/bin/Debug/Mono.Cecil.Mdb.dll
 /Users/vorg/Workspace/var-bartlett-point-cloud/var-bartlett-point-cloud/unity/PointCloudViz/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
 /Users/vorg/Workspace/var-bartlett-point-cloud/var-bartlett-point-cloud/unity/PointCloudViz/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.xml
+/Users/vorg/Workspace/var-bartlett-point-cloud/var-bartlett-point-cloud/unity/PointCloudViz/Temp/bin/Debug/LitJson.dll

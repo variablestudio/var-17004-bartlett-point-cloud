@@ -13,7 +13,8 @@ public class DataStreamNode : MonoBehaviour {
 	/// <summary>
 	/// radius of spline at this position
 	/// </summary>
-  public float radius = 1.0f; 
+  	public float radius = 1.0f;
+	public float alpha = 1.0f;
   
 	/// <summary>
 	/// Is this the first node in the spline?

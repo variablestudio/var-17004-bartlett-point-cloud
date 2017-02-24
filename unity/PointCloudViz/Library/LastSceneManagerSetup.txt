@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Day02.unity
+- path: Assets/Day02_final.unity
   isLoaded: 1
   isActive: 1

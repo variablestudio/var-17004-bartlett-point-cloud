@@ -27,7 +27,7 @@ public class OpenStreetMap : MonoBehaviour {
 		int tileX = x + xOffset;
 		int tileY = y + yOffset;
 		string url = "https://api.mapbox.com/v4/mapbox.streets/" + zoom + "/" + tileX + "/" + tileY + ".png?access_token=" + accessToken;
-		Debug.Log("OSM " + url);
+		//Debug.Log("OSM " + url);
 		return this.getCachedWWW (url);
 	}
 
@@ -51,7 +51,7 @@ public class OpenStreetMap : MonoBehaviour {
 		}
 		if (System.IO.File.Exists (filePath)) {
 			string pathforwww = "file://" + loadFilepath;
-			Debug.Log ("TRYING FROM CACHE " + url + "  file " + pathforwww);
+			//Debug.Log ("TRYING FROM CACHE " + url + "  file " + pathforwww);
 			www = new WWW (pathforwww);
 		} else {
 			web = true;
@@ -68,23 +68,23 @@ public class OpenStreetMap : MonoBehaviour {
 		if (www.error == null) {
 			if (web) {
 				//System.IO.Directory.GetFiles
-				Debug.Log ("SAVING DOWNLOAD  " + www.url + " to " + filePath);
+				//Debug.Log ("SAVING DOWNLOAD  " + www.url + " to " + filePath);
 				// string fullPath = filePath;
 				File.WriteAllBytes (filePath, www.bytes);
-				Debug.Log ("SAVING DONE  " + www.url + " to " + filePath);
+				//Debug.Log ("SAVING DONE  " + www.url + " to " + filePath);
 				//Debug.Log("FILE ATTRIBUTES  " + File.GetAttributes(filePath));
 				//if (File.Exists(fullPath))
 				// {
 				//    Debug.Log("File.Exists " + fullPath);
 				// }
 			} else {
-				Debug.Log ("SUCCESS CACHE LOAD OF " + www.url);
+				//Debug.Log ("SUCCESS CACHE LOAD OF " + www.url);
 			}
 		} else {
 			if (!web) {
 				File.Delete (filePath);
 			}
-			Debug.Log ("WWW ERROR " + www.error);
+			//Debug.Log ("WWW ERROR " + www.error);
 		}
 	}
 
@@ -133,7 +133,7 @@ public class OpenStreetMap : MonoBehaviour {
 		float planeSize = 10; // default Unity plane is 10x10
 		float scale = this.TileSizeInMeters() / (planeSize);
 
-		Debug.Log("Tile size " + this.TileSizeInMeters() + " radius: " + radius);
+		//Debug.Log("Tile size " + this.TileSizeInMeters() + " radius: " + radius);
 
 		for (int i = -radius; i <= radius; i++) {
 			for (int k = -radius; k <= radius; k++) {

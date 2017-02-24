@@ -43,6 +43,8 @@ public class DataStream : MonoBehaviour
 	private Vector3 initialScale;
   
 	Vector3CatmullRomSpline positionSpline;
+	float[] radiusSpline;
+	float[] alphaSpline;
 
 	public Vector3CatmullRomSpline Spline {
 		get { return positionSpline; }
@@ -78,13 +80,21 @@ public class DataStream : MonoBehaviour
 	  
 		nodes = new List<DataStreamNode> ();
 		positionSpline = new Vector3CatmullRomSpline ();    
-	  
+		List<float> radiusSplineList = new List<float> ();    
+		List<float> alphaSplineList = new List<float> ();    
+	  	
 		DataStreamNode node = first;
 		while (node != null) { 
+			Debug.Log("Add add add");
 			nodes.Add (node);
 			positionSpline.Add (node.transform.position); 
+			radiusSplineList.Add(node.radius);
+			alphaSplineList.Add(node.alpha);
 			node = node.next;
 		}
+		radiusSpline = radiusSplineList.ToArray();
+		alphaSpline = alphaSplineList.ToArray();
+
 	}
 
 	void InitParticles ()
@@ -140,7 +150,16 @@ public class DataStream : MonoBehaviour
 				particleData [i].prevPosition = positionSpline.GetPosition (particleData [i].t); 
 			}               
 			Vector3 positionOnCurve = positionSpline.GetPosition (particleData [i].t);
-			Vector3 positionOnSurface = GetPositionOnSurface (particleData [i].t, particleData [i].angle, Radius * particleData [i].r);
+			float tlen = particleData [i].t * radiusSpline.Length;
+			int ri = (int)Mathf.Floor(tlen);
+			float ra = radiusSpline[ri];
+			float rb = radiusSpline[Math.Min(ri + 1, radiusSpline.Length - 1)];
+			float r = this.Radius * Mathf.Lerp(ra, rb, tlen - ri);
+			float aa = alphaSpline[ri];
+			float ab = alphaSpline[Math.Min(ri + 1, alphaSpline.Length - 1)];
+			float a = Mathf.Lerp(aa, ab, tlen - ri);
+
+			Vector3 positionOnSurface = GetPositionOnSurface (particleData [i].t, particleData [i].angle, r * particleData [i].r);
 			Vector3 normal = (positionOnSurface - positionOnCurve).normalized;
 			//float d = 0.25f + 0.75f*Mathf.Max(0.0f, Vector3.Dot(normal, lightPos)); //that's the proper version
 			//float d = 0.5f + 0.5f * Vector3.Dot (normal, lightPos); //this looks cooler
@@ -154,7 +173,9 @@ public class DataStream : MonoBehaviour
 //			} else if (particleData [i].t > 0.8f) {
 //				a = 1.0f - (particleData [i].t - 0.8f) / 0.2f;
 //			}
-			particles [i].startColor = ParticleColor;
+			Color color = ParticleColor;
+			color.a = a;
+			particles [i].startColor = color;
 			particles [i].startSize = (i < particles.Length * value) ? ParticleSize : 0;
 			particleData [i].angle += 0.5f * Time.deltaTime;
 			particleData [i].prevPosition = particles [i].position;
