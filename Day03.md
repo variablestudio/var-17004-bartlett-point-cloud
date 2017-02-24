@@ -1,5 +1,15 @@
 # Day03
 
+## Agenda
+
+- data stream updates (radius, trasnparency)
+- data label
+- live data Air Quality
+- adding point clouds again
+- feedback
+- assignment and evaluation criteria
+
+
 ## Air Quality
 
 Air Quality API
