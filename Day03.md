@@ -9,7 +9,7 @@
   - what is the data (e.g. no2 = nitrogen dioxide, count = number of people on the bus stop)
   - value range (0..1? 10-100? 1000s)
   - time range (24h? 4 week? one week?)
-- output format = ??? unity files > screenshot > video > ?
+- output format = ??? unity files > screenshot > video > ? (before 13th)
 - what do we do with the point cloud???????????
 
 ## Evaluation
