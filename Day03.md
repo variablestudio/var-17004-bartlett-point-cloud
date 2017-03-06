@@ -1,10 +1,10 @@
-# Day03
+# Day 03
 
 ## Assignment
 - scene in unity using what we had learned
 - 2 data sources that influence geometry (scale, height, stream)
 - time label
-- spreadsheet describes the data 
+- spreadsheet describes the data
   - what's the source ( which website, which data set / spreadsheet, what API)
   - what is the data (e.g. no2 = nitrogen dioxide, count = number of people on the bus stop)
   - value range (0..1? 10-100? 1000s)
