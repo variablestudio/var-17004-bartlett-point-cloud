@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Day02_final.unity
+- path: Assets/PointCloudFinal.unity
   isLoaded: 1
   isActive: 1
